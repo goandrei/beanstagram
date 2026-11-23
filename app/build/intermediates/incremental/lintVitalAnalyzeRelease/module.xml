@@ -1,0 +1,20 @@
+<lint-module
+    format="1"
+    dir="/Users/agorneanu/repos/beanstagram/app"
+    name=":app"
+    type="APP"
+    maven="Brewlog:app:unspecified"
+    agpVersion="9.5.2"
+    buildFolder="build"
+    bootClassPath="/Users/agorneanu/Library/Android/sdk/platforms/android-37.0/android.jar:/Users/agorneanu/Library/Android/sdk/build-tools/36.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-37.0"
+    neverShrinking="true"
+    highlightGradualR8Api="false">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,8 @@
+com.brewlog.app-pngs-0 /Users/agorneanu/repos/beanstagram/app/build/generated/res/pngs/release
+com.brewlog.app-updated_navigation_xml-1 /Users/agorneanu/repos/beanstagram/app/build/generated/updated_navigation_xml/release
+com.brewlog.app-packageReleaseResources-2 /Users/agorneanu/repos/beanstagram/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.brewlog.app-packageReleaseResources-3 /Users/agorneanu/repos/beanstagram/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.brewlog.app-release-4 /Users/agorneanu/repos/beanstagram/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.brewlog.app-main-5 /Users/agorneanu/repos/beanstagram/app/src/main/res
+com.brewlog.app-release-6 /Users/agorneanu/repos/beanstagram/app/src/release/res
+gradleHome-0 /Users/agorneanu/.gradle
